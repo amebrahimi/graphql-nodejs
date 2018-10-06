@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "jdoe@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "2",
+      "name": "Atarod Ebrahimi",
+      "email": "jdoe@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "3",
+      "name": "Faranak Ebrahimi",
+      "email": "jdoe@gmail.com",
+      "age": 6
+    },
+    {
+      "id": "4",
+      "name": "Amir Mahmoud Ebrahimi",
+      "email": "jdoe@gmail.com",
+      "age": 42
+    }
+  ]
+}
